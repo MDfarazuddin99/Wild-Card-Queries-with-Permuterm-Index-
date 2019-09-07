@@ -36,20 +36,20 @@
       `information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]` <br>
       `retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]` <br>
       `object [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]` <br>
-      `2.txt` <br>
-      `3.txt` <br>
-      `4.txt` <br>
-      `5.txt` <br>
-      `6.txt` <br>
-      `8.txt` <br>
-      `9.txt` <br>
+      `2.txt`
+      `3.txt`
+      `4.txt`
+      `5.txt` 
+      `6.txt` 
+      `8.txt` 
+      `9.txt` 
       
         `\NOT inform*on \AND \NOT retri*l` 
         
-      `4.txt` <br>
-      `5.txt`<br>
-      `6.txt`<br>
-      `8.txt`<br>
-      `9.txt`<br>
+      `4.txt` 
+      `5.txt`
+      `6.txt`
+      `8.txt`
+      `9.txt`
     </p>
 </div>
