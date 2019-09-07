@@ -33,8 +33,6 @@
       <h5>Query</h5>
   
       `\NOT information \AND \NOT retrieval \or object`
-
-  
       `information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]` <br>
       `retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]` <br>
       `object [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]` <br>
