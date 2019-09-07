@@ -32,6 +32,7 @@
       <h4>For Part 1<br></h4>
       <h5>Query</h5>
   
+   ```
       \NOT information \AND \NOT retrieval \or object
       information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]
       retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]
@@ -51,6 +52,4 @@
       6.txt`
       8.txt
       9.txt
-    
-    </p>
-</div>
+    ```
