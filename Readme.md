@@ -32,24 +32,25 @@
       <h4>For Part 1<br></h4>
       <h5>Query</h5>
   
-      `\NOT information \AND \NOT retrieval \or object`
-      `information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]` <br>
-      `retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]` <br>
-      `object [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]` <br>
-      `2.txt`
-      `3.txt`
-      `4.txt`
-      `5.txt` 
-      `6.txt` 
-      `8.txt` 
-      `9.txt` 
+      \NOT information \AND \NOT retrieval \or object
+      information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]
+      retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+      object [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+      2.txt
+      3.txt
+      4.txt
+      5.txt 
+      6.txt 
+      8.txt 
+      9.txt 
       
-        `\NOT inform*on \AND \NOT retri*l` 
+     \NOT inform*on \AND \NOT retri*l 
         
-      `4.txt` 
-      `5.txt`
-      `6.txt`
-      `8.txt`
-      `9.txt`
+      4.txt 
+      5.txt
+      6.txt`
+      8.txt
+      9.txt
+    
     </p>
 </div>
