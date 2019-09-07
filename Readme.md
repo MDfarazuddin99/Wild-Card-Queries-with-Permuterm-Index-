@@ -33,24 +33,23 @@
       <h5>Query</h5>
       `\NOT information \AND \NOT retrieval \or object`
       <h5>Output</h5>
-      `information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]`
-      <br>
-      `retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]`<br>
-      `object [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]`<br>
-      `2.txt`<br>
-      `3.txt`<br>
-      `4.txt`<br>
-      `5.txt`<br>
-      `6.txt`<br>
-      `8.txt`<br>
-      `9.txt`<br>
+  
+      `information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]` <br>
+      `retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]` <br>
+      `object [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]` <br>
+      `2.txt` <br>
+      `3.txt` <br>
+      `4.txt` <br>
+      `5.txt` <br>
+      `6.txt` <br>
+      `8.txt` <br>
+      `9.txt` <br>
 
-      <h4>For Part 2</h4>
-      ```
-        \NOT inform*on \AND \NOT retri*l
-      ```
-      <br>
-      `4.txt`<br>
+      
+        `\NOT inform*on \AND \NOT retri*l`
+     
+      
+      `4.txt` <br>
 `5.txt`<br>
 `6.txt`<br>
 `8.txt`<br>
