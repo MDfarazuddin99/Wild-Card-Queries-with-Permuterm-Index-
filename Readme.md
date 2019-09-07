@@ -31,8 +31,9 @@
       Similar to Weslaw system just add a '\' before every operation for Eg:<br>
       <h4>For Part 1<br></h4>
       <h5>Query</h5>
+  
       `\NOT information \AND \NOT retrieval \or object`
-      <h5>Output</h5>
+
   
       `information [1, 1, 1, 0, 0, 0, 0, 0, 0, 1]` <br>
       `retrieval [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]` <br>
@@ -44,15 +45,13 @@
       `6.txt` <br>
       `8.txt` <br>
       `9.txt` <br>
-
       
-        `\NOT inform*on \AND \NOT retri*l`
-     
-      
+        `\NOT inform*on \AND \NOT retri*l` 
+        
       `4.txt` <br>
-`5.txt`<br>
-`6.txt`<br>
-`8.txt`<br>
-`9.txt`<br>
+      `5.txt`<br>
+      `6.txt`<br>
+      `8.txt`<br>
+      `9.txt`<br>
     </p>
 </div>
